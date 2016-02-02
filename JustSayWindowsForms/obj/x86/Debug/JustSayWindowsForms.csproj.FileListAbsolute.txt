@@ -1,0 +1,9 @@
+c:\users\dhiren\documents\visual studio 2010\Projects\JustSayWindowsForms\JustSayWindowsForms\bin\Debug\JustSayWindowsForms.exe
+c:\users\dhiren\documents\visual studio 2010\Projects\JustSayWindowsForms\JustSayWindowsForms\bin\Debug\JustSayWindowsForms.pdb
+c:\users\dhiren\documents\visual studio 2010\Projects\JustSayWindowsForms\JustSayWindowsForms\obj\x86\Debug\JustSayWindowsForms.Form1.resources
+c:\users\dhiren\documents\visual studio 2010\Projects\JustSayWindowsForms\JustSayWindowsForms\obj\x86\Debug\JustSayWindowsForms.Properties.Resources.resources
+c:\users\dhiren\documents\visual studio 2010\Projects\JustSayWindowsForms\JustSayWindowsForms\obj\x86\Debug\JustSayWindowsForms.csproj.GenerateResource.Cache
+c:\users\dhiren\documents\visual studio 2010\Projects\JustSayWindowsForms\JustSayWindowsForms\obj\x86\Debug\JustSayWindowsForms.exe
+c:\users\dhiren\documents\visual studio 2010\Projects\JustSayWindowsForms\JustSayWindowsForms\obj\x86\Debug\JustSayWindowsForms.pdb
+c:\users\dhiren\documents\visual studio 2010\Projects\JustSayWindowsForms\JustSayWindowsForms\obj\x86\Debug\JustSayWindowsForms.csprojResolveAssemblyReference.cache
+c:\users\dhiren\documents\visual studio 2010\Projects\JustSayWindowsForms\JustSayWindowsForms\bin\Debug\JustSayWindowsForms.exe.config
